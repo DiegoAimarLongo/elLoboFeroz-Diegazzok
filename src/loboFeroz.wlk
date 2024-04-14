@@ -1,4 +1,4 @@
-loboobject lobo {
+object lobo {
 	var peso = 10
 	
 	//1.1
